@@ -1,0 +1,4 @@
+# 获取安装脚本
+`cd`
+`wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Linux-x86_64.sh` \#从url下载
+
